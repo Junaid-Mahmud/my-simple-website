@@ -1,0 +1,12 @@
+div{
+    background-color: aqua;
+}
+h3{
+    color: deeppink;
+}
+p{
+    background-color: lemonchiffon;
+    border: 5px solid violet;
+    margin: 5px ;
+    text-align: justify;
+}
